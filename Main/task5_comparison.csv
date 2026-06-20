@@ -1,0 +1,4 @@
+Metric,MLR,RandomForest
+MSE,325.9329,72.8734
+RMSE (kg),18.0536,8.5366
+R²,0.5378,0.8966
